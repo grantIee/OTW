@@ -8,7 +8,7 @@ Official Documentation Starts on Level 13 (sorry)
 |:---:|:-----:|:------:|:---:|:------------:|
 |13->14|Bandit|[bandit13](https://github.com/grantIee/OTW/blob/master/notes/bandit13.md)|[bandit13](https://github.com/grantIee/OTW/blob/master/solutions/bandit13.md)|19 April 2018|
 |14->15|Bandit|[bandit14](https://github.com/grantIee/OTW/blob/master/notes/bandit14.md)|[bandit14](https://github.com/grantIee/OTW/blob/master/solutionbandit14.md)|20 April 2018|
-|15->16|Bandit|[bandit15](https://github.com/grantIee/OTW/blob/master/notes/bandit15.md)|[bandit15](https://github.com/grantIee/OTW/blob/master/solutions/bandit15.md)|
+|15->16|Bandit|[bandit15](https://github.com/grantIee/OTW/blob/master/notes/bandit15.md)|[bandit15](https://github.com/grantIee/OTW/blob/master/solutions/bandit15.md)|21 April 2018|
 |16->17|Bandit|[bandit16](https://github.com/grantIee/OTW/blob/master/notes/bandit16.md)|[bandit16](https://github.com/grantIee/OTW/blob/master/solutions/bandit16.md)|
 |17->18|Bandit|[bandit17](https://github.com/grantIee/OTW/blob/master/notes/bandit17.md)|[bandit17](https://github.com/grantIee/OTW/blob/master/solutions/bandit17.md)|
 |18->19|Bandit|[bandit18](https://github.com/grantIee/OTW/blob/master/notes/bandit18.md)|[bandit18](https://github.com/grantIee/OTW/blob/master/solutions/bandit18.md)|
