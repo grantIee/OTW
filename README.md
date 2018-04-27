@@ -14,7 +14,7 @@ Official Documentation Starts on Level 13 (sorry)
 |18->19|Bandit|[bandit18](https://github.com/grantIee/OTW/blob/master/notes/bandit18.md)|[bandit18](https://github.com/grantIee/OTW/blob/master/solutions/bandit18.md)|24 April 2018|
 |19->20|Bandit|[bandit19](https://github.com/grantIee/OTW/blob/master/notes/bandit19.md)|[bandit19](https://github.com/grantIee/OTW/blob/master/solutions/bandit19.md)|25 April 2018|
 |20->21|Bandit|[bandit20](https://github.com/grantIee/OTW/blob/master/notes/bandit20.md)|[bandit20](https://github.com/grantIee/OTW/blob/master/solutions/bandit20.md)|26 April 2018|
-|21->22|Bandit|[bandit21](https://github.com/grantIee/OTW/blob/master/notes/bandit21.md)|[bandit21](https://github.com/grantIee/OTW/blob/master/solutions/bandit21.md)|
+|21->22|Bandit|[bandit21](https://github.com/grantIee/OTW/blob/master/notes/bandit21.md)|[bandit21](https://github.com/grantIee/OTW/blob/master/solutions/bandit21.md)|27 April 2018|
 |22->23|Bandit|[bandit22](https://github.com/grantIee/OTW/blob/master/notes/bandit22.md)|[bandit22](https://github.com/grantIee/OTW/blob/master/solutions/bandit22.md)|
 |23->24|Bandit|[bandit23](https://github.com/grantIee/OTW/blob/master/notes/bandit23.md)|[bandit23](https://github.com/grantIee/OTW/blob/master/solutions/bandit23.md)|
 |24->25|Bandit|[bandit24](https://github.com/grantIee/OTW/blob/master/notes/bandit24.md)|[bandit24](https://github.com/grantIee/OTW/blob/master/solutions/bandit24.md)|
