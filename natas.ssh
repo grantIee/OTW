@@ -1,0 +1,4 @@
+#!/bin/sh
+read level
+firefox http://natas$level.natas.labs.overthewire.org
+
