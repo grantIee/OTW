@@ -30,7 +30,7 @@ Official Documentation Starts on Level 13 (sorry)
 |:---:|:-----:|:------:|:---:|:------------:|
 |0|Natas|[Natas0](https://github.com/grantIee/OTW/blob/master/notes/Natas0.md)|[Natas0](https://github.com/grantIee/OTW/blob/master/solutions/Natas0.md)|18 May 2018|
 |0->1|Natas|[Natas1](https://github.com/grantIee/OTW/blob/master/notes/Natas1.md)|[Natas1](https://github.com/grantIee/OTW/blob/master/solutions/Natas1.md)|18 May 2018|
-|1->2|Natas|[Natas2](https://github.com/grantIee/OTW/blob/master/notes/Natas2.md)|[Natas2](https://github.com/grantIee/OTW/blob/master/solutions/Natas2.md)||
+|1->2|Natas|[Natas2](https://github.com/grantIee/OTW/blob/master/notes/Natas2.md)|[Natas2](https://github.com/grantIee/OTW/blob/master/solutions/Natas2.md)|23 May 2018|
 |2->3|Natas|[Natas3](https://github.com/grantIee/OTW/blob/master/notes/Natas3.md)|[Natas3](https://github.com/grantIee/OTW/blob/master/solutions/Natas3.md)||
 |3->4|Natas|[Natas4](https://github.com/grantIee/OTW/blob/master/notes/Natas4.md)|[Natas4](https://github.com/grantIee/OTW/blob/master/solutions/Natas4.md)||
 |4->5|Natas|[Natas5](https://github.com/grantIee/OTW/blob/master/notes/Natas5.md)|[Natas5](https://github.com/grantIee/OTW/blob/master/solutions/Natas5.md)||
