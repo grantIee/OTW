@@ -6,6 +6,7 @@ Official Documentation Starts on Level 13 (sorry)
 
 
 **Bandit**      
+
 |Level|Version|Notes|Solutions|Date Completed|
 |:---:|:-----:|:------:|:---:|:------------:|
 |13->14|Bandit|[bandit13](https://github.com/grantIee/OTW/blob/master/notes/bandit13.md)|[bandit13](https://github.com/grantIee/OTW/blob/master/solutions/bandit13.md)|19 April 2018|
@@ -25,7 +26,8 @@ Official Documentation Starts on Level 13 (sorry)
 
 
 
-**Natas**    
+**Natas** 
+
 |Level|Version|Notes|Solutions|Date Completed|
 |:---:|:-----:|:------:|:---:|:------------:|
 |0|Natas|[Natas0](https://github.com/grantIee/OTW/blob/master/notes/Natas0.md)|[Natas0](https://github.com/grantIee/OTW/blob/master/solutions/Natas0.md)|18 May 2018|
